@@ -1,0 +1,148 @@
+{
+  "visualization_possible": true,
+  "charts": [
+    {
+      "chartId": "chart-1",
+      "chartType": "bar",
+      "title": "Number of Suppliers with Published Carbon Scorecards (2021-2024)",
+      "xLabel": "Year",
+      "yLabel": "Number of Suppliers",
+      "data": {
+        "x": [
+          2021,
+          2022,
+          2023,
+          2024
+        ],
+        "y": [
+          261,
+          389,
+          497,
+          657
+        ]
+      }
+    },
+    {
+      "chartId": "chart-2",
+      "chartType": "bar",
+      "title": "Distribution of Carbon Management Levels for Suppliers (2024)",
+      "xLabel": "Carbon Management Level",
+      "yLabel": "Number of Suppliers",
+      "data": {
+        "x": [
+          "Insufficient",
+          "Beginner",
+          "Intermediate",
+          "Advanced",
+          "Leader"
+        ],
+        "y": [
+          33,
+          96,
+          293,
+          159,
+          64
+        ]
+      }
+    },
+    {
+      "chartId": "chart-3",
+      "chartType": "pie",
+      "title": "EcoVadis Level Distribution",
+      "xLabel": "EcoVadis Level",
+      "yLabel": "Number of Entities",
+      "data": {
+        "x": [
+          "Platinum",
+          "Gold",
+          "Silver",
+          "Bronze",
+          "Improved",
+          "Maintained",
+          "Decreased"
+        ],
+        "y": [
+          8,
+          13,
+          3,
+          0,
+          7,
+          15,
+          2
+        ]
+      }
+    },
+    {
+      "chartId": "chart-4",
+      "chartType": "bar",
+      "title": "ESG Targets Progress (2023 vs 2024)",
+      "xLabel": "Target",
+      "yLabel": "Status",
+      "data": {
+        "x": [
+          "Establish European ESG Committee",
+          "Establish updated Materiality Matrix",
+          "Establish incentives to drive our ESG targets",
+          "EcoVadis Gold level for all factories",
+          "EcoVadis Gold level for all Marketing & Sales Companies & warehouses",
+          "EcoVadis Bronze level for six independent distributors",
+          "EcoVadis Bronze level in Independent Distributor Agreements",
+          "Strengthen ESG risk assessment policy, processes and due diligence"
+        ],
+        "y": [
+          [
+            "Established",
+            "Established, monthly meeting"
+          ],
+          [
+            "Work in progress",
+            "Completed"
+          ],
+          [
+            "Work in progress",
+            "Workstream established and project ongoing"
+          ],
+          [
+            "4/5",
+            "4/4*"
+          ],
+          [
+            "14/23",
+            "17/23"
+          ],
+          [
+            "1/6",
+            "1/6"
+          ],
+          [
+            "0/19",
+            "0/19"
+          ],
+          [
+            "Work in progress",
+            "Completed"
+          ]
+        ]
+      }
+    },
+    {
+      "chartId": "chart-5",
+      "chartType": "bar",
+      "title": "Scope 1, 2, and 3 Emissions Reduction Targets (FY2041)",
+      "xLabel": "Scope",
+      "yLabel": "Percentage Reduction",
+      "data": {
+        "x": [
+          "Scope 1 & 2",
+          "Scope 3",
+          "Scope 1, 2 & 3"
+        ],
+        "y": [
+          50,
+          25,
+          90
+        ]
+      }
+    }
+  ]
+}

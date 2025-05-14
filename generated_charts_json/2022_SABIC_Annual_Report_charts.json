@@ -1,0 +1,91 @@
+{
+  "visualization_possible": true,
+  "charts": [
+    {
+      "chartId": "chart1",
+      "chartType": "bar",
+      "title": "2022 Compliance Investigation Data",
+      "xLabel": "Category",
+      "yLabel": "Number",
+      "data": {
+        "x": [
+          "Concerns Raised",
+          "Violations Found",
+          "Investigations Closed"
+        ],
+        "y": [
+          136,
+          42,
+          113
+        ]
+      }
+    },
+    {
+      "chartId": "chart2",
+      "chartType": "bar",
+      "title": "Third-Party Compliance Training Completion Rates (2022)",
+      "xLabel": "Party Type",
+      "yLabel": "Completion Rate (%)",
+      "data": {
+        "x": [
+          "Temporary Workers",
+          "Suppliers",
+          "Distributors"
+        ],
+        "y": [
+          47.7,
+          35.1,
+          58.9
+        ]
+      }
+    },
+    {
+      "chartId": "chart3",
+      "chartType": "pie",
+      "title": "2022 CSR Investment Allocation",
+      "xLabel": "CSR Priority",
+      "yLabel": "Percentage",
+      "data": {
+        "x": [
+          "Water and Sustainable Agriculture",
+          "Environmental Protection",
+          "Science and Technology in Education",
+          "Health and Wellness"
+        ],
+        "y": [
+          25,
+          25,
+          25,
+          25
+        ]
+      }
+    },
+    {
+      "chartId": "chart4",
+      "chartType": "pie",
+      "title": "Step-Change Targets: 2010 vs 2025",
+      "xLabel": "Metric",
+      "yLabel": "Percentage Change",
+      "data": {
+        "x": [
+          "Energy Intensity",
+          "Material Loss Intensity",
+          "Absolute Waste Reduction",
+          "Flaring",
+          "Water Intensity",
+          "GHG Intensity",
+          "Employee Integrity Assessment Score"
+        ],
+        "y": [
+          -25,
+          -50,
+          "Gap to below 2010",
+          -65,
+          -25,
+          -25,
+          50
+        ]
+      }
+    }
+  ]
+}
